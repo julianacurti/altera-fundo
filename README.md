@@ -49,6 +49,8 @@ Não temos dependências no projeto.
 ## Precisa de ajuda?
 Você pode contatar a Juliana Curti(mantedora do projeto) em julianacurti09@gmail.com
 
+Feito por 🪄 Juliana
+
 
 
 
