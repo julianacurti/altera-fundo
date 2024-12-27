@@ -47,7 +47,7 @@ Não temos dependências no projeto.
 - [Juliana Silva](https://github.com/juliana-silva-hub) contribuinte
 
 ## Precisa de ajuda?
-Você pode contatar a Juliana Curti(mantedora do projeto) em julianacurti09@gmail.com
+Você pode contatar a Juliana Curti(mantedora do projeto) 
 
 Feito por 🪄 Juliana
 
