@@ -1,4 +1,4 @@
-# altera-fundo
+# modelo-basico-readme
 
 ## O que é este projeto?
 Este projeto é uma página feita com HTML, CSS e JavaScript que contém uma série de botões coloridos para que a pessoa que está utilizando a aplicação possa alterar a cor de fundo da página.
