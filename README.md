@@ -42,6 +42,13 @@ Não temos dependências no projeto.
 ## Como contribuir com o projeto
 [Clique aqui](./CONTRIBUTING.md) para ver as diretrizes de contribuição.
 
+## Pessoas que contribuiram com o projeto
+- [Juliana Curti](github.com/julianacurti) - mantedora do projeto
+- [Juliana Silva](github.com/juliana-silva-hub) contribuinte
+
+## Precisa de ajuda?
+Você pode contatar a Juliana Curti(mantedora do projeto) em julianacurti09@gmail.com
+
 
 
 
